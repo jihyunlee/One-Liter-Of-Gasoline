@@ -8,3 +8,5 @@ The data source is from <a href="http://www.guardian.co.uk/news/datablog/2012/ju
 There are three types of visualization: bubble, fuel gauge and bar. The bubble chart enables to read easily with point color and size of circles. The fuel gauge chart helps understanding better with a familiar interface in daily life. The bar chart is very traditional in terms of data comparison but I play with gradient color and geographical regions.
 
 For more information, please visit <a href="http://hellojihyun.com" target="_blank">hellojihyun.com</a>.
+
+\* Processing
