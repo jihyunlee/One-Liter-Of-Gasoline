@@ -1,4 +1,4 @@
-One-Liter-Of-Gasoline
+One Liter Of Gasoline
 =====================
 
 This project is a data visualization of How much gasoline 20 euros will buy.
